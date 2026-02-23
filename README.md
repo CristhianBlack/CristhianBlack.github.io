@@ -1,3 +1,5 @@
+Sistema de Gestion Empresarial.
+
 Estado del proyecto
 Este sistema se encuentra en desarrollo activo.
 Se actualiza constantemente agregando módulos contables, inventario y facturación.
